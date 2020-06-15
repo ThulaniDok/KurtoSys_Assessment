@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8792c9f0-8fe5-486c-9547-e6660e8d514b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.local/share/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KurtoSys Assessment/TestJPMorganFund.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KurtoSys Assessment/SetMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KurtoSys Assessment/GetMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.local/share/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/SimpleWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KurtoSys Assessment/TestWebServiceApi.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/GetMethods.cs" />
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/SetMethods.cs" />
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/Program.cs" />
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/FunctionUITest.cs" />
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/TestWebServiceAPI.cs" />
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/TestJPMorganFund.cs" />
+        <option value="$PROJECT_DIR$/KurtoSys Assessment/TestWebServiceApi.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dMQoH9Jwd0uE8gqb9HjaOFrMGG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.KurtoSys Assessment">
+    <configuration name="KurtoSys Assessment" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KurtoSys Assessment/KurtoSys Assessment.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8792c9f0-8fe5-486c-9547-e6660e8d514b" name="Default Changelist" comment="" />
+      <created>1592232655173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592232655173</updated>
+      <workItem from="1592232656949" duration="7898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1320" height="213" key="GridCell.Tab.0.bottom" timestamp="1592239947400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592239947400" />
+    <state width="1320" height="213" key="GridCell.Tab.0.center" timestamp="1592239947400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1592239947400" />
+    <state width="1320" height="213" key="GridCell.Tab.0.left" timestamp="1592239947400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1592239947400" />
+    <state width="1320" height="213" key="GridCell.Tab.0.right" timestamp="1592239947400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1592239947400" />
+    <state width="1320" height="213" key="GridCell.Tab.1.bottom" timestamp="1592239947401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592239947401" />
+    <state width="1320" height="213" key="GridCell.Tab.1.center" timestamp="1592239947400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1592239947400" />
+    <state width="1320" height="213" key="GridCell.Tab.1.left" timestamp="1592239947400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1592239947400" />
+    <state width="1320" height="213" key="GridCell.Tab.1.right" timestamp="1592239947401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1592239947401" />
+    <state width="1320" height="213" key="GridCell.Tab.2.bottom" timestamp="1592239947402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592239947402" />
+    <state width="1320" height="213" key="GridCell.Tab.2.center" timestamp="1592239947401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1592239947401" />
+    <state width="1320" height="213" key="GridCell.Tab.2.left" timestamp="1592239947401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1592239947401" />
+    <state width="1320" height="213" key="GridCell.Tab.2.right" timestamp="1592239947401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1592239947401" />
+    <state width="1320" height="213" key="GridCell.Tab.3.bottom" timestamp="1592239947402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592239947402" />
+    <state width="1320" height="213" key="GridCell.Tab.3.center" timestamp="1592239947402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1592239947402" />
+    <state width="1320" height="213" key="GridCell.Tab.3.left" timestamp="1592239947402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1592239947402" />
+    <state width="1320" height="213" key="GridCell.Tab.3.right" timestamp="1592239947402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1592239947402" />
+    <state width="1320" height="213" key="GridCell.Tab.4.bottom" timestamp="1592239947403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.4.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592239947403" />
+    <state width="1320" height="213" key="GridCell.Tab.4.center" timestamp="1592239947403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.4.center/0.0.1366.738@0.0.1366.738" timestamp="1592239947403" />
+    <state width="1320" height="213" key="GridCell.Tab.4.left" timestamp="1592239947402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.4.left/0.0.1366.738@0.0.1366.738" timestamp="1592239947402" />
+    <state width="1320" height="213" key="GridCell.Tab.4.right" timestamp="1592239947403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="213" key="GridCell.Tab.4.right/0.0.1366.738@0.0.1366.738" timestamp="1592239947403" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KurtoSys Assessment/TestWebServiceApi.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/KurtoSys Assessment/TestWebServiceApi.cs" initialLine="27">
+            <startOffsets>
+              <option value="1243" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1294" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="RestSharp.RestResponse" fieldName="ContentType" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
